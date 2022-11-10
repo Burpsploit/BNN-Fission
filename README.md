@@ -1,2 +1,2 @@
 # BNN-Fission
-BETA
+BETA VERSION
