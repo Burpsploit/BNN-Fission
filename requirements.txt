@@ -2,4 +2,5 @@ tensorflow
 tensorflow-probability
 pandas
 numpy
-matploitlib
+matplotlib
+sklearn
